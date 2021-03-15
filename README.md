@@ -5,7 +5,7 @@ An early onset lung cancer detection software focusing on the development of an 
 
 EarlyBird is presently a work in progress, with no ETA given
 
-## 📖  Features 
+### 📖  Features 
 - <b> Completely free to use and accessible, open source </b> 
  > EarlyBird is 100% free and available anywhere with internet via a web app or Android mobile app medium
 
