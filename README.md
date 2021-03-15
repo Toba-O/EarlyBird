@@ -27,8 +27,8 @@ Apache
 
 ### Credits
 
-This app was fully developed by founder and developer Toba Ojo
-- [Toba Ojo](http://tobaojo.com/)
+All components of the app, its website, and support was fully developed by founder Olutoba Ojo
+- [Olutoba Ojo](http://tobaojo.com/)
 
 <i> 
   Android is a trademark of Google LLC. <br>
