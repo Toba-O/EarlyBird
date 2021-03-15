@@ -25,9 +25,13 @@ For questions that are not answered by the FAQ, seek the [EarlyBird guide](http:
 
 If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Walter/issues).
 
+<br>
+
 ## 📃  License
 
 Apache
+
+<br>
 
 ## Credits
 
