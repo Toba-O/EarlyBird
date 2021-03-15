@@ -12,11 +12,6 @@ EarlyBird is presently a work in progress, with no ETA given
 <br><br>
 
 
-## ✔️  How do I get EarlyBird?
-Coming soon!
-
-<br>
-
 ## FAQ and support
 
 Visit the [official FAQ page](http://tobaojo.com) for answers to commonly asked questions.
