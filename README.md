@@ -9,8 +9,11 @@ EarlyBird is presently a work in progress, with no ETA given
 - <b> Completely free to use and accessible, open source </b> 
  > EarlyBird is 100% free and available anywhere with internet via a web app or Android mobile app medium
 
+<br>
 ## ✔️  How do I get EarlyBird?
 Coming soon!
+
+<br>
 
 ## ❓  FAQ and support
 
