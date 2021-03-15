@@ -5,7 +5,7 @@ An early onset lung cancer detection software focusing on the development of an 
 
 EarlyBird is presently a work in progress, with no ETA given
 
-### 📖  Features <!-- What are the benefits? -->
+## 📖  Features <!-- What are the benefits? -->
 Compared to other apps, Walter is completely free and open source!
 - <b> Completely free to use and accessible, open source </b> 
 
