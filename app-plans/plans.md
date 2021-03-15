@@ -1,6 +1,6 @@
 ### Color Palette
-- #e7eff8
-- #a2c8f6
-- #72a3df
-- #03254f
+- #ffffff (white)
+- #ebebeb (gray)
+- #E6F2FF (light blue)
+- #007BFF (main blue)
 
