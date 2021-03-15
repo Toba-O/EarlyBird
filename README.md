@@ -25,7 +25,7 @@ Apache
 
 <br>
 
-## Credits
+### Credits
 
 This app was fully developed by founder and developer Toba Ojo
 - [Toba Ojo](http://tobaojo.com/)
