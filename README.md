@@ -6,7 +6,7 @@ An early onset lung cancer detection software focusing on the development of an 
 Additionally, the EarlyBird project is open source to the public
 
 EarlyBird is presently a work in progress, with no ETA given
-<br><br>
+<br><br><br>
 
 
 ### FAQ and support
@@ -17,6 +17,7 @@ For questions that are not answered by the FAQ, seek the [EarlyBird guide](http:
 
 If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Walter/issues).
 
+<br>
 
 ### License
 
