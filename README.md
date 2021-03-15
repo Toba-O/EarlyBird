@@ -7,5 +7,29 @@ EarlyBird is presently a work in progress, with no ETA given
 
 ## 📖  Features 
 - <b> Completely free to use and accessible, open source </b> 
- > EarlyBird is 100% free and available anywhere with internet via a web app or Android mobile app medium.
+ > EarlyBird is 100% free and available anywhere with internet via a web app or Android mobile app medium
+
+## ✔️  How do I get EarlyBird?
+Coming soon!
+
+## ❓  FAQ and support
+
+Visit the [official FAQ page](http://tobaojo.com) for answers to commonly asked questions.
+
+For questions that are not answered by the FAQ, seek the [EarlyBird guide](http://tobaojo.com) for assistance<!-- Add walter guide link -->
+
+If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Walter/issues).
+
+## 📃  License
+
+Apache
+
+## Credits
+
+This app was fully developed by founder and developer Toba Ojo
+- [Toba Ojo](http://tobaojo.com/)
+
+<i> 
+  Android is a trademark of Google LLC. <br>
+</i>
 
