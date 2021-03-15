@@ -17,7 +17,7 @@ Coming soon!
 
 <br>
 
-## ❓  FAQ and support
+## FAQ and support
 
 Visit the [official FAQ page](http://tobaojo.com) for answers to commonly asked questions.
 
@@ -27,7 +27,7 @@ If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Wa
 
 <br>
 
-## 📃  License
+## License
 
 Apache
 
