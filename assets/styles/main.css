@@ -11,6 +11,16 @@ html {
   overflow-x: hidden !important;
 }
 
+::selection {
+  background: #ebebeb !important;
+  color: #007BFF !important;
+}
+
+::-moz-selection {
+  background: #ebebeb !important; /* Firefox */
+  color: #007BFF !important;
+}
+
 body {
   width: 100vw;
   height: 100vh;
