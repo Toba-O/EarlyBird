@@ -121,6 +121,10 @@ h2 {
 
 
 @media (max-width: 768px) {
+  body {
+  overflow-x: hidden !important;
+  margin: 0;
+}
   .text{
     margin: 2rem 2rem auto 2rem; 
     width: auto;
