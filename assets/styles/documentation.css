@@ -1,37 +1,37 @@
 /*** Navbar ***/
-   .nav-menu-top {
-     padding-top: 25px;
-   }
+.nav-menu-top {
+  padding-top: 25px;
+}
 
-.nav-item .nav-link  {
-    font-family: Karla, sans-serif; 
-    font-weight: 700;
-    font-size: 1.125rem;
-    background-color: transparent;
-    padding-bottom: calc(1px * 2); 
-    position: relative;
-    transition: 0.5s ease;
-    cursor: pointer;
-    padding-left: 2rem !important;
+.nav-item .nav-link {
+  font-family: Karla, sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem;
+  background-color: transparent;
+  padding-bottom: calc(1px * 2);
+  position: relative;
+  transition: 0.5s ease;
+  cursor: pointer;
+  padding-left: 2rem !important;
 }
 
 .nav-item .nav-link:hover {
-  color: #007BFF  !important;  
+  color: #007bff !important;
 }
 
 .navtitle {
-  font-family: Karla, sans-serif; 
-  font-weight: 900; 
-  color: #007BFF !important; 
-  text-transform: lowercase; 
+  font-family: Karla, sans-serif;
+  font-weight: 900;
+  color: #007bff !important;
+  text-transform: lowercase;
   font-size: 1.75rem;
   position: relative;
   vertical-align: middle;
-  }
+}
 
 .fa-github {
   font-size: 1.5rem;
-  vertical-align: middle!important;
+  vertical-align: middle !important;
 }
 
 @media (max-width: 480px) {
@@ -39,7 +39,7 @@
     float: left !important;
     margin-left: -4vw !important;
     display: block !important;
- }
+  }
   .nav-link {
     float: left !important;
     width: 100vw !important;
@@ -56,7 +56,3 @@
     display: block !important;
   }
 }
-
-
-
-
