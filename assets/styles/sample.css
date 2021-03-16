@@ -73,19 +73,11 @@ p {
   margin-left: 25vw;
 }
 
-h1 {
-  font-family: Karla, sans-serif;
-  font-weight: 900;
-  color: #007bff;
-  text-transform: lowercase;
-  margin-bottom: 7rem;
-  margin-left: 10%;
-}
-
 h2 {
   font-size: 2rem;
   font-weight: 400;
   width: 50%;
+  margin-bottom: 7rem;
   margin-left: 25vw;
   font-family: Lora, serif;
 }
