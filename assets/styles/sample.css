@@ -11,7 +11,7 @@
   font-size: 1.75rem;
   position: relative;
   margin-top: 2%;
-  vertical-align: text-top !important; 
+  vertical-align: text-top !important;
 }
 
 .nav-item .nav-link {
@@ -34,7 +34,7 @@
 .navbar-light .nav-item .nav-link:active,
 .navbar-light .nav-item .nav-link:focus,
 .navbar-light .nav-item:hover .nav-link {
-    color: #212529;
+  color: #212529;
 }
 
 .fa-github {
@@ -64,4 +64,28 @@
     margin-left: -8vw !important;
     display: block !important;
   }
+}
+
+p {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.125rem;
+  width: 50%;
+  margin-left: 25vw;
+}
+
+h1 {
+  font-family: Karla, sans-serif;
+  font-weight: 900;
+  color: #007bff;
+  text-transform: lowercase;
+  margin-bottom: 7rem;
+  margin-left: 10%;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 400;
+  width: 50%;
+  margin-left: 25vw;
+  font-family: Lora, serif;
 }
