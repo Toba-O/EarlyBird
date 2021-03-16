@@ -10,7 +10,7 @@ Github Pages will be used to host the future website, with a "standby" webpage t
 
 <br><br>
 
-**Note:** 
+⚠ **Note:** 
 This "website" branch is not to be confused with the web app aspect of the EarlyBird app. The website is merely for descriptive and showcasing purposes. 
 
 For example, the download links to the web app and Android app will be placed on the website homepage
