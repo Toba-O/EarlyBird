@@ -1,3 +1,8 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
 /*** Navbar ***/
 .nav-menu-top {
   padding-top: 25px;
