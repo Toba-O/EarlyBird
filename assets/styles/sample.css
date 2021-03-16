@@ -1,3 +1,24 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  overflow-x: hidden !important;
+}
+
+::selection {
+  background: #ebebeb !important;
+  color: #007BFF !important;
+}
+
+::-moz-selection {
+  background: #ebebeb !important; /* Firefox */
+  color: #007BFF !important;
+}
+
 /*** Navbar ***/
 .nav-menu-top {
   padding-top: 25px;
