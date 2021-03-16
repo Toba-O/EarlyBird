@@ -10,7 +10,8 @@
   text-transform: lowercase;
   font-size: 1.75rem;
   position: relative;
-  vertical-align: middle;
+  margin-top: 2%;
+  vertical-align: text-top !important; 
 }
 
 .nav-item .nav-link {
