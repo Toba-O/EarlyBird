@@ -1,7 +1,21 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  width: 100%;
+  height: 100%;
+  scroll-behavior: smooth;
+  overflow-y: auto;
+  overflow-x: hidden !important;
+}
+
 body {
   width: 100vw;
   height: 100vh;
 }
+
 .parent{
   display: flex;
   justify-content: center;
