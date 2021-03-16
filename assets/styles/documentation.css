@@ -3,6 +3,16 @@
   padding-top: 25px;
 }
 
+.navtitle {
+  font-family: Karla, sans-serif;
+  font-weight: 900;
+  color: #007bff !important;
+  text-transform: lowercase;
+  font-size: 1.75rem;
+  position: relative;
+  vertical-align: middle;
+}
+
 .nav-item .nav-link {
   font-family: Karla, sans-serif;
   font-weight: 700;
@@ -19,14 +29,11 @@
   color: #007bff !important;
 }
 
-.navtitle {
-  font-family: Karla, sans-serif;
-  font-weight: 900;
-  color: #007bff !important;
-  text-transform: lowercase;
-  font-size: 1.75rem;
-  position: relative;
-  vertical-align: middle;
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color: #212529;
 }
 
 .fa-github {
