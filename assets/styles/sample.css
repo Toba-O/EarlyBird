@@ -108,7 +108,7 @@ p {
   font-size: 1.125rem;
 }
 
-h2 {
+h1 {
   overflow: hidden;
   font-size: 2rem;
   font-weight: 400;
@@ -132,7 +132,7 @@ h2 {
   p {
     font-size: 1rem;
   }
-  h2 {
+  h1 {
     font-size: 1.75rem;
   }
 }
