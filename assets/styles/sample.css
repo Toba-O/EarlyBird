@@ -139,7 +139,7 @@ h2 {
 }
 
 /** Header Animation**/
-span {
+.textanim {
     transform: translate(0, 100%);
 }
 
