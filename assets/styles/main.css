@@ -55,6 +55,10 @@ p {
   opacity: 0;
 }
 
+span {
+  letter-spacing: 1px !important;
+}
+
 .fade-in {
   animation: fadeIn 2s ease-in 0.5s forwards; 
 }
