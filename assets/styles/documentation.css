@@ -14,6 +14,12 @@ body {
   margin: 0;
 }
 
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden !important;
+    margin: 0;
+  }
+}
 ::selection {
   background: #ffe987 !important;
   color: #212529 !important;
