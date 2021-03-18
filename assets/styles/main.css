@@ -41,3 +41,11 @@ h1 {
   text-transform: lowercase;
   font-size: 8vw;
 }
+
+p {
+  font-family: 'Lora', sans-serif;
+  font-size: 1.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
