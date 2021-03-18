@@ -71,3 +71,5 @@ span {
     opacity:1;
   }
 }
+
+@media (max-width: 768px) {h1{font-size: 12vw;}} 
