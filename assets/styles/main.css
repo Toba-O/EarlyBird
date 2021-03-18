@@ -60,7 +60,7 @@ span {
 }
 
 .fade-in {
-  animation: fadeIn 2s ease-in 0.5s forwards; 
+  animation: fadeIn 1.75s ease-in 0.5s forwards; 
 }
 
 @keyframes fadeIn {
