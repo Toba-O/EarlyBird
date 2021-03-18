@@ -14,6 +14,12 @@ body {
   margin: 0;
 }
 
+@media (max-width: 768px) {
+  body {
+    overflow-x: hidden !important;
+    margin: 0;
+  }
+}
 ::selection {
   background: #ffe987 !important;
   color: #212529 !important;
@@ -22,4 +28,72 @@ body {
 ::-moz-selection {
   background: #ffe987 !important; /* Firefox */
   color: #212529 !important;
+}
+
+/*** Navbar ***/
+.nav-menu-top {
+  padding-top: 25px;
+}
+
+.navtitle {
+  font-family: Karla, sans-serif;
+  font-weight: 900;
+  color: #007bff !important;
+  text-transform: lowercase;
+  font-size: 1.75rem;
+  position: relative;
+  margin-top: 2%;
+  vertical-align: text-top !important; 
+}
+
+.nav-item .nav-link {
+  font-family: Karla, sans-serif;
+  font-weight: 700;
+  font-size: 1.125rem;
+  background-color: transparent;
+  padding-bottom: calc(1px * 2);
+  position: relative;
+  transition: 0.5s ease;
+  cursor: pointer;
+  padding-left: 2rem !important;
+}
+
+.nav-item .nav-link:hover {
+  color: #007bff !important;
+}
+
+.navbar-light .nav-item.active .nav-link,
+.navbar-light .nav-item .nav-link:active,
+.navbar-light .nav-item .nav-link:focus,
+.navbar-light .nav-item:hover .nav-link {
+    color: #212529;
+}
+
+.fa-github {
+  font-size: 1.5rem;
+  vertical-align: middle !important;
+}
+
+@media (max-width: 480px) {
+  .navresp {
+    float: left !important;
+    margin-left: -4vw !important;
+    display: block !important;
+  }
+  .nav-link {
+    float: left !important;
+    width: 100vw !important;
+    text-align: left !important;
+    vertical-align: left !important;
+    align-items: left !important;
+    display: block !important;
+  }
+}
+
+@media (max-width: 425px) {
+  .navresp {
+    float: left !important;
+    margin-left: -8vw !important;
+    display: block !important;
+  }
 }
