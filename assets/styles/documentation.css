@@ -1,12 +1,14 @@
 * {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  box-sizing: inherit;
 }
 
 html {
   overflow-y: auto !important;
   overflow-x: hidden !important;
   scroll-behavior: smooth;
+  box-sizing: border-box;
 }
 
 body {
