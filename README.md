@@ -24,7 +24,7 @@ If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Ea
 
 ### License
 
-Apache
+Apache License 2.0
 
 <br>
 
