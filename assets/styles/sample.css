@@ -215,6 +215,12 @@ h1 {
   transition: color 0.8s ease;
 }
 
+@media (max-width: 480px) {
+.arrowm {
+  color: red;
+  vertical-align: bottom;
+}
+  
 .feat-a:hover .arrowm {
   color: black;
 }
