@@ -223,8 +223,7 @@ h1 {
 
 @media (max-width: 480px) {
 .arrowm {
-  color: red;
-  vertical-align: bottom;
+  display: none;
 }
 }
 
