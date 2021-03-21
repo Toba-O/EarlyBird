@@ -226,7 +226,8 @@ h1 {
   color: red;
   vertical-align: bottom;
 }
-  
+}
+
 .feat-a:hover .arrowm {
   color: black;
 }
