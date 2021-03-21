@@ -158,3 +158,106 @@ h1 {
     transform: translate(0, 0);
   }
 }
+
+.features-section {  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ebebeb;
+  height: auto !important;
+  width: 100% !important;
+  margin: auto;
+  padding-top: 1.6rem;
+  padding-bottom: 12.625rem; 
+}
+
+.featheader {
+  font-family: Lora, serif;
+  height: 1.5rem;
+  line-height: 1.2; 
+  font-size: 2rem;
+  font-weight: 400;
+  padding: 2.5rem;
+  margin: auto;
+  text-align: center;
+}
+
+.featparagraph {
+  font-family: "Nunito Sans", sans-serif;
+  line-height: 1.5; 
+  font-size: 1.125rem;
+  font-weight: 400;
+  padding-top: 1.5rem;
+  margin: auto;
+  text-align: center;
+  display: block;
+  width: 50vw !important;
+}
+
+.feat-a {
+  color: #007BFF;
+  font-weight: 900;
+  text-decoration: none;
+  transition: color .8s ease;
+}
+
+.feat-a:hover {
+  color: black;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.arrowm {
+  font-size: 1.5rem;
+  color: #007BFF;
+  display: inline;
+  padding-left: 2px;
+  transition: color .8s ease;
+}
+
+.feat-a:hover .arrowm {
+  color: black;
+}
+
+.checksection {
+  margin: auto;
+  margin-top: 2.5rem;
+}
+
+.checkli {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+ion-icon {
+  vertical-align: bottom;
+  font-size: 1.45rem;
+  display: inline-block;
+}
+
+.checktext {
+  margin-left: .6rem;
+}
+
+.custom-shape-divider-top-1616295319 {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1616295319 svg {
+    position: relative;
+    display: block;
+    width: calc(300% + 1.3px);
+    height: 150px;
+  background-color: #ebebeb;
+}
+
+.custom-shape-divider-top-1616295319 .shape-fill {
+    fill: #FFFFFF;
+}
