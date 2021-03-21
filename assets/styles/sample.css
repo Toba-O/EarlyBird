@@ -194,6 +194,12 @@ h1 {
   width: 50vw !important;
 }
 
+@media (max-width: 720px) {
+  .featparagraph {
+    width: 90vw !important;
+  }
+}
+
 .feat-a {
   color: #007bff;
   font-weight: 900;
