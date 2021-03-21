@@ -159,7 +159,7 @@ h1 {
   }
 }
 
-.features-section {  
+.features-section {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -168,13 +168,13 @@ h1 {
   width: 100% !important;
   margin: auto;
   padding-top: 1.6rem;
-  padding-bottom: 12.625rem; 
+  padding-bottom: 12.625rem;
 }
 
 .featheader {
   font-family: Lora, serif;
   height: 1.5rem;
-  line-height: 1.2; 
+  line-height: 1.2;
   font-size: 2rem;
   font-weight: 400;
   padding: 2.5rem;
@@ -184,7 +184,7 @@ h1 {
 
 .featparagraph {
   font-family: "Nunito Sans", sans-serif;
-  line-height: 1.5; 
+  line-height: 1.5;
   font-size: 1.125rem;
   font-weight: 400;
   padding-top: 1.5rem;
@@ -195,10 +195,10 @@ h1 {
 }
 
 .feat-a {
-  color: #007BFF;
+  color: #007bff;
   font-weight: 900;
   text-decoration: none;
-  transition: color .8s ease;
+  transition: color 0.8s ease;
 }
 
 .feat-a:hover {
@@ -209,10 +209,10 @@ h1 {
 
 .arrowm {
   font-size: 1.25rem;
-  color: #007BFF;
+  color: #007bff;
   display: inline;
   padding-left: 2px;
-  transition: color .8s ease;
+  transition: color 0.8s ease;
 }
 
 .feat-a:hover .arrowm {
@@ -238,26 +238,26 @@ ion-icon {
 }
 
 .checktext {
-  margin-left: .6rem;
+  margin-left: 0.6rem;
 }
 
 .custom-shape-divider-top-1616295319 {
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 100%;
-    overflow: hidden;
-    line-height: 0;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
 }
 
 .custom-shape-divider-top-1616295319 svg {
-    position: relative;
-    display: block;
-    width: calc(300% + 1.3px);
-    height: 150px;
+  position: relative;
+  display: block;
+  width: calc(300% + 1.3px);
+  height: 150px;
   background-color: #ebebeb;
 }
 
 .custom-shape-divider-top-1616295319 .shape-fill {
-    fill: #FFFFFF;
+  fill: #ffffff;
 }
