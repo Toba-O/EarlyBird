@@ -208,7 +208,8 @@ h1 {
 }
 
 .arrowm {
-  font-size: 1.5rem;
+  vertical-align: middle;
+  font-size: 1.25rem;
   color: #007BFF;
   display: inline;
   padding-left: 2px;
