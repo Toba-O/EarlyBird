@@ -102,6 +102,9 @@ body {
   .hero {
     padding-bottom: 6.25rem;
   }
+  .text {
+    margin-top: 8rem !important;
+  }
 }
 
 @media (max-width: 1366px) {
