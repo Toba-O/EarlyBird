@@ -111,10 +111,12 @@ body {
   .hero {
     padding-bottom: 0rem;
   }
+  .text {
+    margin-top: 7rem !important;
+  }    
 }
 
 .text {
-  margin-top: 7rem;
   margin-left: 25vw;
   padding-bottom: 3.5rem;
   width: 50%;
