@@ -142,8 +142,8 @@ h1 {
     margin: 0;
   }
   .text {
-    margin: 2rem 2rem auto 2rem;
-    width: auto;
+    margin: 2rem 2rem auto 2rem !important;
+    width: auto !important;
   }
 }
 
