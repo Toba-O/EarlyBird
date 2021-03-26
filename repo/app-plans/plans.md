@@ -11,4 +11,5 @@
 - Touch interactions
 - Dark theme
 - App-like design
+> Splash screen, smooth page loading, etc.
 - Sharp app icons
