@@ -199,3 +199,8 @@ body {
 .card-body {
   font-size: 1.02rem;
 }
+
+.alink {
+  color: #007BFF;
+  text-decoration: underline;
+}
