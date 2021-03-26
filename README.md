@@ -8,8 +8,7 @@ Additionally, the EarlyBird project is open source to the public
 EarlyBird is presently a work in progress, with no ETA given. 
 > Currently working on the progressive web app aspect of EarlyBird first
 
-<br><br><br>
-
+<br><br>
 
 ### FAQ and support
 
