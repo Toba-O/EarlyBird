@@ -1,4 +1,4 @@
-### Official Earlybird Color Palette
+### Official Color Palette
 - #e7eff8
 
 - #a2c8f6
