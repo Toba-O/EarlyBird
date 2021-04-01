@@ -6,6 +6,7 @@
 
 <img src="https://raw.githubusercontent.com/Toba-O/myimages/main/Screenshot%202021-03-15%20at%207.48.58%20PM.png?token=ARCMDQVZ3WEW7VTUSB3GZVLALEXMM" />
 <!-- replace soon -->
+
  ### General
 - Touch feedback
 - Touch interactions
