@@ -1,6 +1,6 @@
-### EarlyBird PWA Environment
+### EarlyBird Android Environment
 
 
-Welcome to the EarlyBird Progressive web App Environment!
+Welcome to the EarlyBird Android Environment!
 
-Here you can find the file directory for all assets of the web app. Github Pages will be used to host the web app
+Here you can find the file directory for all assets of the Android app. Made with Android Studio
