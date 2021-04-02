@@ -1,6 +1,6 @@
 ### EarlyBird Github Pages Environment
 
-> [EarlyBird WIP Website](https://toba-o.github.io/EarlyBird/samplehome/)
+> [EarlyBird WIP Website](https://earlybirdapp.github.io/)
 
 
 Welcome to the EarlyBird Github Pages Environment!
