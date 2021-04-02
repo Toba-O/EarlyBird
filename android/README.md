@@ -6,4 +6,5 @@ Here you can find the file directory for all assets of the Android app. Made wit
 
 <br><br>
 
+
 <em>Android is a trademark of Google LLC.</em>
