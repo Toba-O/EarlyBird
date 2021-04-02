@@ -2,3 +2,5 @@
 > Or simple fade-in fade-out transition? via Swup
 
 -Need to add meta descriptions to pages
+
+- 
