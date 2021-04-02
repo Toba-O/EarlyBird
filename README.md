@@ -1,8 +1,7 @@
 ### EarlyBird Github Pages Environment
 
-> [EarlyBird WIP Website](https://toba-o.github.io/EarlyBird/)
+> [EarlyBird WIP Website](https://toba-o.github.io/EarlyBird/samplehome/)
 
-> [Sample Home Page Font Testing](https://toba-o.github.io/EarlyBird/samplehome/)
 
 Welcome to the EarlyBird Github Pages Environment!
 
