@@ -3,4 +3,4 @@
 
 - Need to add meta descriptions to pages
 
-- Get started  button
+- Get started button near footer
