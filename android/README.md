@@ -6,7 +6,6 @@ Welcome to the EarlyBird Android Environment!
 
 Here you can find the file directory for all assets of the Android app. Made with Android Studio
 
+<br><br>
 
-<i> 
-  Android is a trademark of Google LLC. <br>
-</i>
+<em>Android is a trademark of Google LLC.</em>
