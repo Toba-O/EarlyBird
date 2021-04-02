@@ -14,7 +14,7 @@ EarlyBird is presently a work in progress, with no ETA given.
 
 Visit the [official FAQ page](https://toba-o.github.io/EarlyBird/support/) for answers to commonly asked questions.
 
-For questions that are not answered by the FAQ, seek the [EarlyBird guide](https://toba-o.github.io/EarlyBird/documentation/) for assistance<!-- Add walter guide link -->
+For questions that are not answered by the FAQ, seek the [EarlyBird guide](https://toba-o.github.io/EarlyBird/documentation/) for assistance, or the live chat on the bottom corner of each page
 
 If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/EarlyBird/issues).
 
