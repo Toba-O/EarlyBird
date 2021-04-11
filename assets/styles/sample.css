@@ -26,6 +26,35 @@ body {
   color: #212529 !important;
 }
 
+/** Announcement **/
+.announceheading {
+  margin-bottom: 2rem;
+}
+
+.announcementbar {
+    display: flex;
+    width: 100vw;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background: #e02245;
+    position: absolute;
+    top: 0; 
+}
+
+.announce {
+    visibility: visible;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    vertical-align: middle;
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 1.125rem;
+    font-weight: 600;
+    color: #fce9e6;
+    text-decoration: none;
+    text-align: center;
+}
+
 /*** Navbar ***/
 .nav-menu-top {
   padding-top: 25px;
