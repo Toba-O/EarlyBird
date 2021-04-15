@@ -1,7 +1,7 @@
 # EarlyBird
 > Fully developed and designed by  [Olutoba Ojo](https://tobaojo.com) &middot; [App](https://tobaojo.com) <!-- Replace link with download link) -->
 
-An early onset lung cancer detection and monitoring software focusing on the development of an accessible, multi-platform solution via web-based and mobile application based environments. It is completely free to use and accessible, available anywhere with internet via a web app or Android mobile app medium
+An early onset lung cancer prediction and monitoring software focusing on the development of an accessible, multi-platform solution via web-based and mobile application based environments. It is completely free to use and accessible, available anywhere with internet via a web app or Android mobile app medium
 
 Additionally, the EarlyBird project is open source to the public
 
