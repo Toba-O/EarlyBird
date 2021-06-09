@@ -23,7 +23,7 @@ If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Ea
 
 Apache License 2.0, issued March 15, 2021
 
-<br>
+<br> 
 
 ### Credits
 
