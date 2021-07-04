@@ -5,7 +5,7 @@ An early onset lung cancer prediction and monitoring software focusing on the de
 
 Additionally, the EarlyBird project is open source to the public
 
-EarlyBird is presently a work in progress, with no ETA given. Currently working on the progressive web app aspect of EarlyBird.
+EarlyBird is presently a work in progress, with no ETA given. Currently working on the progressive web app aspect of EarlyBird
 
 <br><br> 
 
