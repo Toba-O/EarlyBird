@@ -2,9 +2,7 @@
 
 An early onset lung cancer prediction and monitoring software focusing on the development of an accessible, multi-platform solution via web-based and mobile application based environments. It is completely free to use and accessible, available anywhere with internet via a web app or Android mobile app medium
 
-Additionally, the EarlyBird project is open source to the public
-
-EarlyBird is presently a work in progress, with no ETA given. Currently working on the progressive web app aspect of EarlyBird
+EarlyBird is presently a work in progress, with no ETA given
 
 <br><br> 
 
