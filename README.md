@@ -1,5 +1,4 @@
 # EarlyBird
-> Fully developed and designed by  [Olutoba Ojo](https://tobaojo.com) &middot; [App](https://tobaojo.com) <!-- Replace link with download link) -->
 
 An early onset lung cancer prediction and monitoring software focusing on the development of an accessible, multi-platform solution via web-based and mobile application based environments. It is completely free to use and accessible, available anywhere with internet via a web app or Android mobile app medium
 
@@ -24,13 +23,3 @@ If you experience any issues, file a [GitHub Issue](https://github.com/Toba-O/Ea
 Apache License 2.0, issued March 15, 2021
 
 <br> 
-
-### Credits
-
-All components of the app, its website, and support was fully developed by founder Olutoba Ojo
-- [Olutoba Ojo](http://tobaojo.com/)
-
-<i> 
-  Android is a trademark of Google LLC. <br>
-</i>
-
